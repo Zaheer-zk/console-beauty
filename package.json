@@ -1,0 +1,15 @@
+{
+  "name": "console-beauty",
+  "version": "1.0.4",
+  "description": "The beautifyConsoleOutput function takes in a string or a function and returns a beautified version of the input that can be logged to the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zaheer__zk",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  },
+  "type": "module"
+}
