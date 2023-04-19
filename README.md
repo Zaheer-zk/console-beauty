@@ -5,7 +5,7 @@ A simple npm package that adds styles to console output using the chalk library.
 
 You can install this package using npm:
 ```
-npm install beautify-console-output
+npm i console-beauty
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install beautify-console-output
 To use this package, import it into your project and call the beautifyConsoleOutput function.
 
 
-import { beautifyConsoleOutput } from 'beautify-console-output';
+import { beautifyConsoleOutput } from 'console-beauty';
 
 console.log(beautifyConsoleOutput('Hello, World!', ['bold', 'underline', 'color:red']));
 
